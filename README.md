@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Upadhyay</h1>
 <h3 align="center">An enthusiast.</h3>
-<img align="right" width="300" height="400" src="![image](https://github.com/user-attachments/assets/6c66c2e2-d3f4-47c8-8693-7ec2ccf7b951)
-">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyaupd&label=Profile%20views&color=0e75b6&style=flat" alt="shreyaupd" /> </p>
 
 - 📫 How to reach me **shreyaupd234@gmail.com**
