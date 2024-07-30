@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya Upadhyay</h1>
+<h1 align="center">Hello 👋, I'm Shreya Upadhyay</h1>
 <h3 align="center">An enthusiast.</h3>
 
 - 📫 How to reach me **shreyaupd234@gmail.com**
