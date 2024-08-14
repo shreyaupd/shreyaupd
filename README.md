@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I can swim😊**
 
-<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
+<iframe src="https://giphy.com/embed/xT39CV47COkGPZO3HG" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loosekeys-animation-animated-xT39CV47COkGPZO3HG">via GIPHY</a></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shreyaupd27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyaupd27" height="30" width="40" /></a>
