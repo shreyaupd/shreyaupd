@@ -4,9 +4,8 @@
 - 📫 How to reach me **shreyaupd234@gmail.com**
 
 - ⚡ Fun fact **I can swim😊**
--  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
-"/>
 
+<img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/shreyaupd27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreyaupd27" height="30" width="40" /></a>
