@@ -4,6 +4,8 @@
 - 📫 How to reach me **shreyaupd234@gmail.com**
 
 - ⚡ Fun fact **I can swim😊**
+-  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
