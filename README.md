@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact **I can swim😊**
 
-<img src="https://github.com/user-attachments/assets/56ec04d8-6b45-4b6b-a77e-d248c1593719"/>
+<img src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif"/>
 
 
 <h3 align="left">Connect with me:</h3>
