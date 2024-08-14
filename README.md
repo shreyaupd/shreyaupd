@@ -5,7 +5,8 @@
 
 - ⚡ Fun fact **I can swim😊**
 
-<img href="https://giphy.com/gifs/loosekeys-animation-animated-xT39CV47COkGPZO3HG">
+<img src="https://github.com/user-attachments/assets/03ec79b6-e351-47bc-9e66-147f65d5775e"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
