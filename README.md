@@ -1,11 +1,22 @@
+
 <h1 align="center" style="color: #ffcc70;">Hi 👋, I'm Shreya Upadhyay</h1>
-<h3 align="center" style="color: #ff9900;">An Enthusiast (●'◡'●)</h3>
-<h3 align="center" style="color: #ff9900;">🌱 Still Learning</h3>
+
+
+<div align="center">
+  <h3 style="display: inline-block; color: #ff9900; vertical-align: middle;">
+    🌱 Still Learning
+  </h3>
+  <img src="https://i.redd.it/qf7j4rq4bnzc1.gif" 
+       width="140" 
+       style="display: inline-block; vertical-align: middle; margin-left: 10px;" />
+</div>
 
 <p align="center">
   📫 How to reach me: <strong><a href="mailto:shreyaupd234@gmail.com" style="color: #ffcc70;">shreyaupd234@gmail.com</a></strong><br/>
   ⚡ Fun fact: <strong>I know about 70% of Mandarin—just enough to chat, and order food 🍜🗺️😅. The other 30%? Pure guesswork and accidental comedy. 🤔🎭😂.</strong>
 </p>
+
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="450" height="350" alt="Typing Character" style="border-radius: 10px;" />
