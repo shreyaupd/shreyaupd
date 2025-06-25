@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  📫 How to reach me: <strong><a href="mailto:shreyaupd234@gmail.com" style="color: #ffcc70;">shreyaupd234@gmail.com</a></strong><br/>
+  📫 How to reach me: <strong><a href="mailto:shreyaupd234@gmail.com" style="color: #ffcc70;">shreyaupd108@gmail.com</a></strong><br/>
   ⚡ Fun fact: <strong>I know about 70% of Mandarin—just enough to chat, and order food 🍜🗺️😅. The other 30%? Pure guesswork and accidental comedy. 🤔🎭😂.</strong>
 </p>
 
