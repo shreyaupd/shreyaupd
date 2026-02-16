@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  📫 How to reach me: <strong><a href="mailto:shreyaupd234@gmail.com" style="color: #ffcc70;">shreyaupd108@gmail.com</a></strong><br/>
+  📫 How to reach me: <strong><a href="mailto:shreyaupd108@gmail.com" style="color: #ffcc70;">shreyaupd108@gmail.com</a></strong><br/>
 </p>
 
 
@@ -50,12 +50,21 @@
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
   </a>
+   <a href="https://www.prisma.io/" target="_blank">
+    <img 
+    src="https://cdn.brandfetch.io/idBBE3_R9e/w/800/h/981/theme/light/idJ9Tiato-.png?c=1dxbfHSJFAPEGdCLU4o5B" 
+    alt="Prisma" 
+    width="40" 
+    height="40"
+  />
+  </a>
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/tailwind_css.png" alt="Tailwind CSS" />
   </a>
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="Express" />
   </a>
+  
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   </a>
